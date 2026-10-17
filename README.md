@@ -2,6 +2,18 @@
 
 A small, mobile-friendly Linux command learning game inspired by a dream about an arcade marble shooter.
 
+
+## Versions and themes
+
+**Current: v0.4** — Switch between an airy pale-blue **Light mode** and deep-blue **Dark mode** with the button at the top of the game. Your choice is remembered in this browser (if browser storage is available); blue/green/purple command balls and full-color command pictograms are unchanged.
+
+- [Play the current version](https://kalintech.github.io/command-pop/)
+- [v0.4 preserved playable checkpoint](https://kalintech.github.io/command-pop/versions/v0.4/)
+- [v0.3 original playable checkpoint](https://kalintech.github.io/command-pop/versions/v0.3/)
+- [v0.3 archive branch](https://github.com/KaliNtech/command-pop/tree/archive/v0.3)
+
+Both versions retain their own HTML source and notes inside [versions/](versions/), with Git commit history preserved.
+
 ## Play
 
 The game is a single HTML page (`index.html`) that runs in a modern browser. No login, installation, backend, or external assets required.
